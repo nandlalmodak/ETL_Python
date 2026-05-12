@@ -1,0 +1,80 @@
+C:\Program Files\Python314
+
+
+
+
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.14
+
+
+C:\Program Files\Python314\Scripts
+
+
+
+
+C:\Users\hp\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.14
+
+
+
+
+
+C:\Python_Software\Scripts
+
+
+
+
+
+
+
+
+
+
+C:\Users\hp\AppData\Roaming\Python
+
+
+
+C:\Users\hp\AppData\Roaming\Python\Python314\Scripts
+
+
+del "%APPDATA%\Python\Scripts\jupyter*.*"
+
+C:\Users\hp>where python
+C:\Python_Software\python.exe
+C:\Users\hp\AppData\Local\Programs\Python\Python312\python.exe
+C:\Users\hp\AppData\Local\Microsoft\WindowsApps\python.exe
+
+del "%AppData%\Local\Programs\Python\Python312\Scripts\jupyter*.*"
+
+C:\Users\hp\AppData\Local\Programs\Python\Python312\Scripts
+
+
+
+del "%AppData%\Roaming\Python\Scripts\jupyter*.*"
+del "C:\Users\hp\AppData\Roaming\Python\Python314\Scripts\jupyter*.*"
+del "C:\Users\hp\AppData\Local\Programs\Python\Python312\Scripts\jupyter*.*"
+
+
+C:\Python_Software\Scripts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

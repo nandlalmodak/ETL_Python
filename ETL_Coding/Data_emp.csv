@@ -1,0 +1,16 @@
+emp_id,name,salary,dept_name,country
+1,A,200,IT,USA
+2,B,100,HR,India
+3,C,400,IT,India
+4,D,500,IT,India
+5,E,400,HR,India
+6,F,600,Admin,USA
+7,G,700,IT,USA
+,,100,,
+9,J,500,,USA
+1,A,200,IT,USA
+11,H,NULL,NULL,India
+NULL,I,NULL,NULL,India
+NULL,V,100,IT,NULL
+14,NULL,400,NULL,USA
+15,NULL,500,HR,NULL

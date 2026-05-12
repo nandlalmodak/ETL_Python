@@ -1,0 +1,16 @@
+"SYMBOL 
+","OPEN 
+","HIGH 
+","LOW 
+","PREV. CLOSE 
+",city|country
+NIFTY 50,"25,546.85","25,781.50","25,508.60","25,585.30","[Kolkata, Delhi]"
+ASIANPAINT,"2,421","2,544","2,421","2,409.70","[Goa, Delhi]"
+M&M,"3,561","3,656","3,560.10","3,560.80","[Pune, Delhi]"
+BHARTIARTL,"1,973.60","2,034.30","1,970.30","1,967.40","[Kota, Delhi]"
+MAXHEALTH,"1,188","1,212.80","1,178.70","1,175.30","[Jaipur, Delhi]"
+HINDUNILVR,"2,565.50","2,615","2,560","2,561.50","[Kolkata, Mumbai]"
+ITC,405.35,413.85,405.25,405.15,"[Kolkata, Kota]"
+RELIANCE,"1,401","1,423.30","1,399.10","1,398.30","[Pune, Mumbai]"
+TATACONSUM,"1,152.20","1,173.50","1,142.50","1,149.30","[Chenai, Delhi]"
+etl,,,,,
